@@ -1,7 +1,7 @@
 {
   "name": "bw-app-7-1774961923",
   "version": "1.0.0",
-  "description": "Aero Meridian monochrome ops dashboard",
+  "description": "Carbon Arcade monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"

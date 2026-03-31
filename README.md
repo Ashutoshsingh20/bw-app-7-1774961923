@@ -1,4 +1,4 @@
-# Aero Meridian
+# Carbon Arcade
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 
